@@ -1,0 +1,16 @@
+.header {
+    text-decoration: underline;
+    margin-right: 8px;
+
+}
+
+.bold {
+    color: brown;
+}
+
+.title {
+    float: left;
+    background-color: brown;
+    border-radius: 5px;
+    
+}
